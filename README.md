@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+- 📫 How to reach me: voloshko30@gmail.com
 <!--
 **Aliencake/Aliencake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ![visitors badge](https://visitor-badge.laobi.icu/badge?page_id=aliencake)
